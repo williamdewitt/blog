@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 Some things I want to put down
 
 - Time-boxed testing

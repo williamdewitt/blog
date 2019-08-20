@@ -5,10 +5,9 @@ description: Just a placeholder for my thoughts
 
 show_excerpts: false
 
-minima:
-  social_links:
-    twitter: silverainza
-    github: williamdewitt
+social_links:
+  twitter: silverainza
+  github: williamdewitt
 
 #header_pages:
 # - about.md

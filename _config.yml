@@ -3,6 +3,9 @@ author: William de Witt
 email: sasilverain@hotmail.com
 description: Just a placeholder for my thoughts
 theme: minima
+header_pages:
+  - about.md
+  - portfolio.md
 
 # social links
 twitter_username: silverainza

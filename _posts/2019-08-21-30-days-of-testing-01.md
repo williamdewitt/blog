@@ -61,6 +61,6 @@ TBC
 
 #### Resources from the book
 
-- Victor Basili - Goal Question Metric
+- [Victor Basili - Goal Question Metric](https://www.semanticscholar.org/paper/The-Goal-Question-Metric-Approach-Basili-Caldiera/b2cb1f5da8723c2f2a8d962eab075da1fd236aa6)
 - Eduard Tufte - The Graphical Display of Quantitive Information
 

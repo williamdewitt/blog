@@ -22,6 +22,11 @@ This is just a place where I can put things and topics I find interesting or wan
 ## Blogs
 - [James Bach](https://www.satisfice.com/blog)
 - [Michael Bolton](https://www.developsense.com/blog/)
+- [Joe Colantonio](https://www.joecolantonio.com)
+- [Angie Jones](http://angiejones.tech/)
+
+## Podcasts/Talks
+- [Joe Colantonio](https://www.joecolantonio.com/testtalks/)
 
 ## Random
 - [Noops](https://noopschallenge.com/)

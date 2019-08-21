@@ -11,3 +11,5 @@ minima:
     github: williamdewitt
 
 theme: minima
+
+google_analytics: UA-146126900-1

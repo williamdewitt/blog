@@ -8,7 +8,7 @@ tags: [testing, 30daysoftesting]
 [(pdf)](/blog/assets/30-days-of-testing-challenge.pdf)
 
 ### Day
-- [ ] 01 - [Buy one testing book and read it by day 30](/blog/{% post_url 2019-08-21-30-days-of-testing-01 %})
+- [ ] 01 - [Buy one testing book and read it by day 30](/blog{% post_url 2019-08-21-30-days-of-testing-01 %})
 - [ ] 02 - Take a photo of something you are doing at work
 - [ ] 03 - Listen to a testing podcast
 - [ ] 04 - Share a testing blog post with a non-tester
@@ -19,7 +19,7 @@ tags: [testing, 30daysoftesting]
 - [ ] 09 - Create a mindmap
 - [ ] 10 - Find an event to attend (online of face to face)
 - [ ] 11 - Take a picture of your team
-- [ ] 12 - [Doodle a problem](/blog/{% post_url 2019-08-21-30-days-of-testing-12 %})
+- [ ] 12 - [Doodle a problem](/blog{% post_url 2019-08-21-30-days-of-testing-12 %})
 - [ ] 13 - Find a user experience problem
 - [ ] 14 - Step outside of your comport zone
 - [ ] 15 - Find a problem with an E-Commerce website
@@ -32,7 +32,7 @@ tags: [testing, 30daysoftesting]
 - [ ] 22 - Share your favourite testing tool
 - [ ] 23 - Help someone test better
 - [ ] 24 - Connect with a tester who you haven't previously connected with
-- [x] 25 - [Contribute to a testing discussion](/blog/{% post_url 2019-08-21-30-days-of-testing-25 %})
+- [x] 25 - [Contribute to a testing discussion](/blog{% post_url 2019-08-21-30-days-of-testing-25 %})
 - [ ] 26 - Invite a non-tester to a test event
 - [ ] 27 - Say something nice about the thing you just tested
 - [ ] 28 - Summarise an issue in 140 characters or less

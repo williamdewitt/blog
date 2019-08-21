@@ -4,8 +4,8 @@ title: 30 Days of Testing
 tags: [testing, 30daysoftesting]
 ---
 
-[30 Days of Testing (post)](https://www.ministryoftesting.com/dojo/series/30-days-of-testing/lessons/30-days-of-testing)
-[30 Days of Testing (pdf)](/assets/30-days-of-testing-challenge.pdf)
+30 Days of Testing [(post)](https://www.ministryoftesting.com/dojo/series/30-days-of-testing/lessons/30-days-of-testing)
+[(pdf)](/assets/30-days-of-testing-challenge.pdf)
 
 ### Day
 - [ ] 01 - [Buy one testing book and read it by day 30]({% post_url /blog/2019-08-21-30-days-of-testing-01 %})

@@ -11,4 +11,5 @@ Some things I want to put down
   - Month one
   - Three months in
 - Test Automation
+- Tensorflow/NLP
 - Resources

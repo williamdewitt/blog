@@ -14,4 +14,3 @@ Some things I want to put down
 - 30 Days of...
   - [Testing](/blog{% post_url 2019-08-21-30-days-of-testing-00 %})
 - Tensorflow/NLP
-- [Resources](/blog{% link /resources%})

@@ -27,6 +27,8 @@ This is just a place where I can put things and topics I find interesting or wan
 
 ## Podcasts/Talks
 - [Joe Colantonio](https://www.joecolantonio.com/testtalks/)
+- [Testing Podcast](https://testingpodcast.com/)
+- [Testing in the Pub](https://testinginthepub.co.uk/testinginthepub/)
 
 ## Random
 - [Noops](https://noopschallenge.com/)

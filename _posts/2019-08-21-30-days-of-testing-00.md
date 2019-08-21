@@ -4,42 +4,39 @@ title: 30 Days of Testing
 tags: [testing, 30daysoftesting]
 ---
 
-https://www.ministryoftesting.com/dojo/series/30-days-of-testing/lessons/30-days-of-testing
-
+[30 Days of Testing (post)](https://www.ministryoftesting.com/dojo/series/30-days-of-testing/lessons/30-days-of-testing)
 [30 Days of Testing (pdf)](/assets/30-days-of-testing-challenge.pdf)
 
 ### Day
-- [ ] 01 - BUY ONE TESTING RELATED BOOK AND READ IT BY DAY 30
-- [ ] 02 - TAKE A PHOTO OF SOMETHING YOU ARE DOING AT WORK
-- [ ] 03 - LISTEN TO A TESTING PODCAST
-- [ ] 04 - SHARE A TESTING BLOG POST WITH A NON-TESTER
-- [ ] 05 - READ AND COMMENT ON ONE BLOG POST
-- [ ] 06 - PERFORM A CRAZY TEST
-- [ ] 07 - FIND AN ACCESSIBILITY BUG
-- [ ] 08 - DOWNLOAD A MOBILE APP, FIND 5 BUGS AND SEND THE FEEDBACK TO THE CREATOR
-- [ ] 09 - CREATE A MINDMAP
-- [ ] 10 - FIND AN EVENT TO ATTEND (ONLINE OR FACE TO FACE)
-- [ ] 11 - TAKE A PICTURE OF YOUR TEAM
-- [ ] 12 - DOODLE A PROBLEM
-- [ ] 13 - FIND A USER EXPERIENCE PROBLEM
-- [ ] 14 - STEP OUTSIDE OF YOUR COMFORT ZONE
-- [ ] 15 - FIND A PROBLEM WITH AN E-COMMERCE WEBSITE
-- [ ] 16 - GO TO A NON-TESTING EVENT
-- [ ] 17 - FIND AND SHARE A QUOTE THAT INSPIRES YOU
-- [ ] 18 - FIND A BROKEN LINK. AND REPORT IT
-- [ ] 19 - FIND AND USE A NEW TOOL
-- [ ] 20 - FIND A GOOD PLACE TO PERFORM SOME SECURITY TESTS
-- [ ] 21 - PAIR TEST WITH SOMEONE
-- [ ] 22 - SHARE YOUR FAVOURITE TESTING TOOL
-- [ ] 23 - HELP SOMEONE TEST BETTER
-- [ ] 24 - CONNECT WITH A TESTER WHO YOU HAVEN’T PREVIOUSLY CONNECTED WITH
-- [x] 25 - CONTRIBUTE TO A TESTING DISCUSSION
-- [ ] 26 - INVITE A NON-TESTER TO A TEST EVENT
-- [ ] 27 - SAY SOMETHING NICE ABOUT THE THING YOU JUST TESTED
-- [ ] 28 - SUMMARISE AN ISSUE IN 140 CHARACTERS OR LESS
-- [ ] 29 - FIND AN OUT BY ONE ERROR
-- [ ] 30 - GIVE SOMEONE POSITIVE FEEDBACK
+- [ ] 01 - [Buy one testing book and read it by day 30]({% post_url 2019-08-21-30-days-of-testing-01 %})
+- [ ] 02 - Take a photo of something you are doing at work
+- [ ] 03 - Listen to a testing podcast
+- [ ] 04 - Share a testing blog post with a non-tester
+- [ ] 05 - Read and comment on one blog post
+- [ ] 06 - Perform a crazy test
+- [ ] 07 - Find an accessibility bug
+- [ ] 08 - Download a mobile app, find 5 bugs and send the feedback to the creator
+- [ ] 09 - Create a mindmap
+- [ ] 10 - Find an event to attend (online of face to face)
+- [ ] 11 - Take a picture of your team
+- [ ] 12 - [Doodle a problem]({% post_url 2019-08-21-30-days-of-testing-12 %})
+- [ ] 13 - Find a user experience problem
+- [ ] 14 - Step outside of your comport zone
+- [ ] 15 - Find a problem with an E-Commerce website
+- [ ] 16 - Go to a non-testing event
+- [ ] 17 - Find and share a quote that inspires you
+- [ ] 18 - Find a broken link. And report it
+- [ ] 19 - Find and use a new tool
+- [ ] 20 - Find a good place to perform some security tests
+- [ ] 21 - Pair test with someone
+- [ ] 22 - Share your favourite testing tool
+- [ ] 23 - Help someone test better
+- [ ] 24 - Connect with a tester who you haven't previously connected with
+- [x] 25 - [Contribute to a testing discussion]({% post_url 2019-08-21-30-days-of-testing-25 %})
+- [ ] 26 - Invite a non-tester to a test event
+- [ ] 27 - Say something nice about the thing you just tested
+- [ ] 28 - Summarise an issue in 140 characters or less
+- [ ] 29 - Find an out by one error
+- [ ] 30 - Give someone positive feedback
 
-BONUS:
-
-SHARE YOUR 30 DAY CHALLENGE EXPERIENCE ON YOUTUBE, INSTAGRAM, TWITTER OR A BLOG POST!
+**Bonus**: Share your 30 Day Challenge experience on YouTube, Instagram, Twitter of a blog post!

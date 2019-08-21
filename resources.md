@@ -10,6 +10,7 @@ This is just a place where I can put things and topics I find interesting or wan
 - [MoT](https://www.ministryoftesting.com/)
 - [Testing Community](http://testers.chat/)
 - [TAU](https://testautomationu.applitools.com/)
+- [Guru99](https://www.guru99.com)
 - [TodoMVC](http://todomvc.com)
 - [test.ai Newsletter](https://www.test.ai/blog/tag/newsletter/)
 - [gremlins.js](https://github.com/marmelab/gremlins.js/blob/master/README.md)
@@ -17,6 +18,10 @@ This is just a place where I can put things and topics I find interesting or wan
 ## Development
 - [Offerzen - Resource Library](https://www.offerzen.com/resource_library/)
 - [NLP with Python](https://www.nltk.org/book/)
+
+## Blogs
+- [James Bach](https://www.satisfice.com/blog)
+- [Michael Bolton](https://www.developsense.com/blog/)
 
 ## Random
 - [Noops](https://noopschallenge.com/)

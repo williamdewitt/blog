@@ -4,7 +4,7 @@ title: 30 Days of Testing - Day 02
 tags: [testing, 30daysoftesting]
 ---
 
-![A cat sleeping in the subway](/blog/assets/batu-gezer-FbgnoxgaAmU-unsplash.jpg)
+####![A cat sleeping in the subway](/blog/assets/batu-gezer-FbgnoxgaAmU-unsplash.jpg)
 
 ## Take a photo of something you are doing at work
 

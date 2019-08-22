@@ -6,7 +6,7 @@ tags: [testing, 30daysoftesting]
 
 ## Listen to a testing podcast
 
-So I did some googling for this one and came across a few testing pod casts which I have listed [here](/resources/).
+So I did some googling for this one and came across a few testing pod casts which I have listed on the resources page.
 
 I started with [Testing Podcast](https://testingpodcast.com/) and episode "106: Weapons of Math Destruction" where the main topic was ethics in the data science field.  So I have noticed that data science has become quite popular recently and I guess that is mainly because of AI/ML becoming a business driving tool.
 

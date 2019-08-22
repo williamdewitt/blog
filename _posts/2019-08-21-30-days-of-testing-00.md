@@ -9,7 +9,7 @@ tags: [testing, 30daysoftesting]
 
 ### Day
 - [ ] 01 - [Buy one testing book and read it by day 30](/blog{% post_url 2019-08-21-30-days-of-testing-01 %})
-- [x] 02 - [Take a photo of something you are doing at work](/blog{% post_url 2019-08-22-30-days-of-work-02 %})
+- [x] 02 - [Take a photo of something you are doing at work](/blog{% post_url 2019-08-22-30-days-of-testing-02 %})
 - [x] 03 - [Listen to a testing podcast](/blog{% post_url 2019-08-22-30-days-of-testing-03 %})
 - [ ] 04 - Share a testing blog post with a non-tester
 - [x] 05 - [Read and comment on one blog post](/blog{% post_url 2019-08-22-30-days-of-testing-05 %})

@@ -1,0 +1,1 @@
+https://www.ministryoftesting.com/dojo/series/30-days-of-testing/lessons/30-days-of-automation-in-testing

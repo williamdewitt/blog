@@ -9,10 +9,10 @@ tags: [testing, 30daysoftesting]
 
 ### Day
 - [ ] 01 - [Buy one testing book and read it by day 30](/blog{% post_url 2019-08-21-30-days-of-testing-01 %})
-- [ ] 02 - Take a photo of something you are doing at work
-- [ ] 03 - Listen to a testing podcast
+- [x] 02 - [Take a photo of something you are doing at work](/blog{% post_url 2019-08-22-30-days-of-work-02 %})
+- [x] 03 - [Listen to a testing podcast](/blog{% post_url 2019-08-22-30-days-of-testing-03 %})
 - [ ] 04 - Share a testing blog post with a non-tester
-- [ ] 05 - Read and comment on one blog post
+- [x] 05 - [Read and comment on one blog post](/blog{% post_url 2019-08-22-30-days-of-testing-05 %})
 - [ ] 06 - Perform a crazy test
 - [ ] 07 - Find an accessibility bug
 - [ ] 08 - Download a mobile app, find 5 bugs and send the feedback to the creator

@@ -10,6 +10,7 @@ Ok so for this one I don't think I am going to by another testing related book b
 
 - [ ] Advanced Software Testing - Vol. 3
 - [ ] Lessons Learned in Software Testing
+- [ ] Explore It! from Elisabeth Hendrickson
 - [x] Clean Code
 - [x] The Clean Coder
 - [ ] Clean Architecture

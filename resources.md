@@ -14,6 +14,9 @@ This is just a place where I can put things and topics I find interesting or wan
 - [TodoMVC](http://todomvc.com)
 - [test.ai Newsletter](https://www.test.ai/blog/tag/newsletter/)
 - [gremlins.js](https://github.com/marmelab/gremlins.js/blob/master/README.md)
+- [Websites To Practice Testing](https://ministryoftesting.com/dojo/lessons/websites-to-practice-testing)
+- [TodoMVC](http://todomvc.com/)
+- [Juice Shop Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project)
 
 ## Development
 - [Offerzen - Resource Library](https://www.offerzen.com/resource_library/)
@@ -24,6 +27,7 @@ This is just a place where I can put things and topics I find interesting or wan
 - [Michael Bolton](https://www.developsense.com/blog/)
 - [Joe Colantonio](https://www.joecolantonio.com)
 - [Angie Jones](http://angiejones.tech/)
+- [Alan Richardson](https://www.eviltester.com/)
 
 ## Podcasts/Talks
 - [Joe Colantonio](https://www.joecolantonio.com/testtalks/)

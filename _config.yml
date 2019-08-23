@@ -11,14 +11,15 @@ minima:
   social_links:
     twitter: silverainza
     github: williamdewitt
+    linkedin: william-de-witt-a4bb9474
 
 theme: minima
 
 google_analytics: UA-146126900-1
 
-gems:
+plugins:
   - jekyll-paginate
 
 # Pagination
 paginate: 3
-paginate_path: blog/posts/page:num/
+paginate_path: blog/page:num/

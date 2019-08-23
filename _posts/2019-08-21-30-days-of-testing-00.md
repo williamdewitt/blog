@@ -39,4 +39,4 @@ tags: [testing, 30daysoftesting]
 - [ ] 29 - Find an out by one error
 - [ ] 30 - Give someone positive feedback
 
-**Bonus**: Share your 30 Day Challenge experience on YouTube, Instagram, Twitter of a blog post!
+**Bonus**: Share your 30 Day Challenge experience on YouTube, Instagram, Twitter or a blog post!

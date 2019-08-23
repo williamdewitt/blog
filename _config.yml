@@ -2,6 +2,8 @@ title: Outsourcing my memory
 author: William de Witt
 email: sasilverain@hotmail.com
 description: Just a placeholder for my thoughts
+baseurl: /blog
+url: https://williamdewitt.github.io/
 
 show_excerpts: false
 
@@ -13,7 +15,10 @@ minima:
 theme: minima
 
 google_analytics: UA-146126900-1
-  
+
+gems:
+  - jekyll-paginate
+
 # Pagination
 paginate: 3
-paginate_path: /blog/page:num/
+paginate_path: posts/page:num/

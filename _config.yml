@@ -15,5 +15,5 @@ theme: minima
 google_analytics: UA-146126900-1
 
 # Pagination
-paginate: 1
-paginate_path: "/page/:num/"
+paginate: 5
+paginate_path: "blog/page/:num/"

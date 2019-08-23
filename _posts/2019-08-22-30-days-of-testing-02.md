@@ -4,6 +4,9 @@ title: 30 Days of Testing - Day 02
 tags: [testing, 30daysoftesting]
 ---
 
+![Cat sleeping in subway](/blog/assets/batu-gezer-FbgnoxgaAmU-unsplash.jpg)
+Photo by [Batu Gezer](https://unsplash.com/@gezerbatu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 ## Take a photo of something you are doing at work
 
 Currently this is how I feel at work...  I have come to the end of my time at my current work place and new work has come to a grinding halt since the contract with a development company has been canceled.

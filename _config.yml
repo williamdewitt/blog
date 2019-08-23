@@ -21,4 +21,4 @@ gems:
 
 # Pagination
 paginate: 3
-paginate_path: posts/page:num/
+paginate_path: blog/posts/page:num/

@@ -17,8 +17,8 @@ tags: [testing, 30daysoftesting]
 - [x] 07 - [Find an accessibility bug](/blog{% post_url 2019-08-23-30-days-of-testing-07 %})
 - [ ] 08 - Download a mobile app, find 5 bugs and send the feedback to the creator
 - [ ] 09 - Create a mindmap
-- [ ] 10 - Find an event to attend (online of face to face)
-- [ ] 11 - Take a picture of your team
+- [ ] 10 - Find an event to attend (online or face to face)
+- [x] 11 - [Take a picture of your team](/blog{% post_url 2019-08-23-30-days-of-testing-11 %})
 - [ ] 12 - [Doodle a problem](/blog{% post_url 2019-08-21-30-days-of-testing-12 %})
 - [ ] 13 - Find a user experience problem
 - [ ] 14 - Step outside of your comport zone

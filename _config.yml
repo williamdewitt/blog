@@ -13,9 +13,6 @@ minima:
 theme: minima
 
 google_analytics: UA-146126900-1
-
-gems:
-  - jekyll-paginate
   
 # Pagination
 paginate: 3

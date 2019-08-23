@@ -9,7 +9,7 @@ layout: default
 
   {{ content }}
 
-  <p>of posts: {% site.posts.size %}</p>
+  <p>of posts: {%- site.posts.size -%}</p>
   <p>paginator pages: {% paginator.total_pages %}</p>
 
   {%- if site.posts.size > 0 -%}

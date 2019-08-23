@@ -14,7 +14,7 @@ tags: [testing, 30daysoftesting]
 - [ ] 04 - Share a testing blog post with a non-tester
 - [x] 05 - [Read and comment on one blog post](/blog{% post_url 2019-08-22-30-days-of-testing-05 %})
 - [ ] 06 - Perform a crazy test
-- [ ] 07 - Find an accessibility bug
+- [x] 07 - Find an accessibility bug
 - [ ] 08 - Download a mobile app, find 5 bugs and send the feedback to the creator
 - [ ] 09 - Create a mindmap
 - [ ] 10 - Find an event to attend (online of face to face)

@@ -23,6 +23,7 @@ This is just a place where I can put things and topics I find interesting or wan
 - [Offerzen - Resource Library](https://www.offerzen.com/resource_library/)
 - [NLP with Python](https://www.nltk.org/book/)
 - [NetHack](https://www.nethack.org/)
+- [CodePen](https://codepen.io/)
 
 ## Blogs
 - [James Bach](https://www.satisfice.com/blog)

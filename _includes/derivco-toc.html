@@ -1,0 +1,20 @@
+<br />
+<div>
+    <ul>
+        <h3>also in this series</h3>
+        {% for tag in site.tags %}
+            {% if tag[0] == "first_days" %}
+                {% assign posts = tag[1] | reverse %}
+                {% for post in posts %}
+                <li>
+                    {% if page.title == post.title %}
+                    <a href="#">{{ post.title }}</a>
+                    {% else %}
+                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                    {% endif %}
+                </li>
+                {% endfor %}
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>

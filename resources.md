@@ -24,6 +24,7 @@ This is just a place where I can put things and topics I find interesting or wan
 - [NLP with Python](https://www.nltk.org/book/)
 - [NetHack](https://www.nethack.org/)
 - [CodePen](https://codepen.io/)
+- [FreeCodeCamp](https://learn.freecodecamp.org)
 
 ## Blogs
 - [James Bach](https://www.satisfice.com/blog)

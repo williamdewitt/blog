@@ -17,10 +17,12 @@ This is just a place where I can put things and topics I find interesting or wan
 - [Websites To Practice Testing](https://ministryoftesting.com/dojo/lessons/websites-to-practice-testing)
 - [TodoMVC](http://todomvc.com/)
 - [Juice Shop Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project)
+- [30 Days of Testing](https://www.ministryoftesting.com/dojo/series/30-days-of-testing)
 
 ## Development
 - [Offerzen - Resource Library](https://www.offerzen.com/resource_library/)
 - [NLP with Python](https://www.nltk.org/book/)
+- [NetHack](https://www.nethack.org/)
 
 ## Blogs
 - [James Bach](https://www.satisfice.com/blog)
@@ -28,6 +30,7 @@ This is just a place where I can put things and topics I find interesting or wan
 - [Joe Colantonio](https://www.joecolantonio.com)
 - [Angie Jones](http://angiejones.tech/)
 - [Alan Richardson](https://www.eviltester.com/)
+- [Gustavo Rivera](http://gustavorivera.com.mx/en/blog/)
 
 ## Podcasts/Talks
 - [Joe Colantonio](https://www.joecolantonio.com/testtalks/)

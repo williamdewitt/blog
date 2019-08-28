@@ -3,12 +3,14 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-  <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
-  <img class="img-fluid mx-auto d-block" src="/blog/assets/nasa-Q1p7bh3SHj8-unsplash.jpg"/>
-  <span>Photo by NASA on Unsplash</span>
+  <div class="jumbotron"
+    style="background-image: url(/blog/assets/nasa-Q1p7bh3SHj8-unsplash.jpg); background-size: cover;">
+    <div class="container">
+      <h2 class="text-info">Personal Blog</h2>
+      <br />
+      <p class="text-muted text-right">Photo by NASA on Unsplash</p>
+    </div>
+  </div>
 
   {{ content }}
 
